@@ -1,8 +1,8 @@
 # de.NBI GitHub Organization
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/lifs-tools/.github/blob/main/CODE_OF_CONDUCT.md) 
 
-[de.NBI Website](https://denbi.de/)
-[de.NBI Cloud Website](https://cloud.denbi.de/)
+- [de.NBI Website](https://denbi.de/)
+- [de.NBI Cloud Website](https://cloud.denbi.de/)
 
 ## Featured Projects
 
