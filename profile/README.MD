@@ -4,6 +4,11 @@
 - [de.NBI Website](https://denbi.de/)
 - [de.NBI Cloud Website](https://cloud.denbi.de/)
 
+## Documentation
+
+- [Cloud User Wiki](https://cloud.denbi.de/wiki)
+- [Cloud User Wiki Repository for Pull Requests](https://github.com/deNBI/cloud-user-docs)
+
 ## Featured Projects
 
 - **[1st de.NBI Biohackathon 2022](https://github.com/deNBI/biohackathon-2022)**
