@@ -18,6 +18,7 @@
 - **[Unix Command Line Course](https://github.com/deNBI/unix-course)**
 - **[SimpleVM](https://github.com/deNBI/simpleVMWorkshop)**
 - **[BiBiGrid](https://github.com/deNBI/bibigrid_clum2022)**
+- **[de.NBI Summer School 2023](https://github.com/deNBI/denbi-summer-school2023)**
 
 ## Code of Conduct
 We openly invite contributions from any interested party and try to actively encourage and foster collaboration.
