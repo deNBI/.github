@@ -35,4 +35,8 @@ Some of our source code repositories may not be public at the moment. If you wou
 - Option 1: Use the corresponding GitHub repository Issues to create an issue.
 - Option 2: Go to https://www.denbi.de/contact to send an E-Mail to the maintainers.
 
+## Federated Cloud Infrastructure Components
 
+- [OpenStack Perun / LS-AAI - Keystone Adapter](https://github.com/deNBI/perunKeystoneAdapter)
+- [OpenStack Dynamic Vendor Data](https://github.com/deNBI/nova_dynamic_vendordata)
+- [OpenStack GPU Exporter REST API](https://github.com/deNBI/OpenstackGPUService)
