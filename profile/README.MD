@@ -9,9 +9,8 @@
 - [Cloud User Wiki](https://cloud.denbi.de/wiki)
 - [Cloud User Wiki Repository for Pull Requests](https://github.com/deNBI/cloud-user-docs)
 
-## Featured Projects
-
-- **[1st de.NBI Biohackathon 2022](https://github.com/deNBI/biohackathon-2022)**
+## Related Projects
+- **[BiBiGrid](https://github.com/BiBiServ/bibigrid)**
 
 ## de.NBI Cloud Training Courses
 
@@ -19,6 +18,10 @@
 - **[SimpleVM](https://github.com/deNBI/simpleVMWorkshop)**
 - **[BiBiGrid](https://github.com/deNBI/bibigrid_clum2022)**
 - **[de.NBI Summer School 2023](https://github.com/deNBI/denbi-summer-school2023)**
+
+## de.NBI BioHackathons
+
+- **[1st de.NBI Biohackathon 2022](https://github.com/deNBI/biohackathon-2022)**
 
 ## Code of Conduct
 We openly invite contributions from any interested party and try to actively encourage and foster collaboration.
